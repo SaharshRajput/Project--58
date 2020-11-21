@@ -1,0 +1,38 @@
+body
+{
+    text-align: center;
+}
+
+p
+{
+   color:red;
+  font-size:20px;
+  padding:20px;
+}
+h1
+{
+  color:blue;
+  font-size:25px;
+}
+.menu
+{
+    list-style: none;
+    font-family: cursive;
+    float: right;
+    top: 10px;
+    right: 30px;
+    cursor: pointer;
+    color: black;
+    position: fixed;
+    padding-left: 5px;
+    display: inline;
+}
+.links
+{
+    display: inline;
+}
+img
+{
+    width: 320px;
+    height: 320px;
+}
